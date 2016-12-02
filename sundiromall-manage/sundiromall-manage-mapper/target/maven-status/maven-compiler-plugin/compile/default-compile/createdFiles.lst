@@ -1,0 +1,7 @@
+com\sundiromall\manage\mapper\ItemParamItemMapper.class
+com\sundiromall\manage\mapper\ContentMapper.class
+com\sundiromall\manage\mapper\ItemCatMapper.class
+com\sundiromall\manage\mapper\ItemParamMapper.class
+com\sundiromall\manage\mapper\ContentCategoryMapper.class
+com\sundiromall\manage\mapper\ItemDescMapper.class
+com\sundiromall\manage\mapper\ItemMapper.class

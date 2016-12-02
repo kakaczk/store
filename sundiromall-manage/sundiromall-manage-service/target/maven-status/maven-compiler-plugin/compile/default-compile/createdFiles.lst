@@ -1,0 +1,9 @@
+com\sundiromall\manage\service\ItemParamItemService.class
+com\sundiromall\manage\service\ItemDescService.class
+com\sundiromall\manage\service\ItemCatService.class
+com\sundiromall\manage\service\ContentCategoryService.class
+com\sundiromall\manage\service\PropertieService.class
+com\sundiromall\manage\service\BaseService.class
+com\sundiromall\manage\service\ItemService.class
+com\sundiromall\manage\service\ContentService.class
+com\sundiromall\manage\service\ItemParamService.class
